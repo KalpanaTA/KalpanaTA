@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @KalpanaTA
 - 🌱 I’m currently learning Data Science
--- 📫 How to reach me iatkalpana@gmail.com
+- 📫 How to reach me iatkalpana@gmail.com
 
 <!---
 KalpanaTA/KalpanaTA is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
